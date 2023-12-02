@@ -2,9 +2,11 @@ As you gain Obols, you may offer them to your Icons and the fragments of the Ash
 
 ## Obtaining Boons
 * To obtain a boon from a Shard, you must possess the Shard. 
-* To obtain a boon from the Icon, you must either
+* To obtain a boon from the Icon, you must **first** either
 	* Locate a shrine to the Icon while exploring the Mind Maze
 	* Purchase the `Devotion` upgrade and select an Icon
+* After you fulfill the above two conditions, during a `travel turn`, one PC must take the `Petitioner` role to purchase a boon. 
+* To activate a boon that you have already purchased, one PC must play the role of the `Petitioner` during the travel turn.
 
 ## Shard of Vision
 
