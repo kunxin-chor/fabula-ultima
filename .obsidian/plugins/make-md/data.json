@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -67,6 +67,9 @@
       "House Rules",
       "The Mind Maze",
       "The Mind Maze",
+      "The Mind Maze",
+      "The Mind Maze",
+      "The Mind Maze",
       "The Mind Maze"
     ]
   },
@@ -109,7 +112,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701435756248,
+  "spacesAutoBackupLast": 1701500670081,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

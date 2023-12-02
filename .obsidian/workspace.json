@@ -12,11 +12,9 @@
             "id": "4f5adea9d4b81786",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "The Mind Maze/Boons.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "The Mind Maze"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Mind Maze/Boons.md",
+                "file": "The Mind Maze/The Mind Maze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Mind Maze/Boons.md",
+                "file": "The Mind Maze/The Mind Maze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Mind Maze/Boons.md"
+                "file": "The Mind Maze/The Mind Maze.md"
               }
             }
           }
@@ -213,13 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f5adea9d4b81786",
+  "active": "823dc2e22e40b1ec",
   "lastOpenFiles": [
-    "The Mind Maze/Challenging the Mind Maze.md",
-    "The Mind Maze/Untitled.md",
-    "The Mind Maze/Boons.md",
-    "The Mind Maze/Insights.md",
     "The Mind Maze/The Mind Maze.md",
+    "The Mind Maze/Challenging the Mind Maze.md",
+    "The Mind Maze/Boons.md",
+    "The Mind Maze/Untitled.md",
+    "The Mind Maze/Insights.md",
     "The Mind Maze/Esoteric.md",
     "House Rules/House Rules.md",
     "House Rules/Feats.md",
